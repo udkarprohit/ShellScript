@@ -1,1 +1,2 @@
 We ,are using github for pushing code.
+1. git init
